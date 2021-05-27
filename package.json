@@ -25,7 +25,7 @@
     "ramda": "^0.26.1",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
+    "react-native": "0.62.0",
     "react-native-floating-action": "^1.20.0",
     "react-native-gesture-handler": "^1.5.3",
     "react-native-safe-area-context": "^0.6.0",
